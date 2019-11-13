@@ -1,0 +1,7 @@
+.ipynb_checkpoints/*
+old-ver/*
+slides/*
+
+.DS_Store
+*.pptx
+*.joblib
