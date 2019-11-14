@@ -1,8 +1,10 @@
 .ipynb_checkpoints/*
 old-ver/*
 slides/*
+data/*
 
 .DS_Store
 *.pptx
 *.joblib
 *.png
+*.csv
