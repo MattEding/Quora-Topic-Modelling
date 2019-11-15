@@ -2,6 +2,7 @@
 old-ver/*
 slides/*
 data/*
+cache/*
 
 .DS_Store
 *.pptx
